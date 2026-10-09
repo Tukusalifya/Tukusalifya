@@ -48,7 +48,7 @@ I'm a Zambian software developer who enjoys building practical solutions, from w
 
 ## GitHub stats
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tukusalifya&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=f8fafc&title_color=0284C7&icon_color=0284C7&text_color=334155" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukusalifya&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=f8fafc&title_color=0284C7&text_color=334155" alt="Top languages" /> </div> <br/>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tukusalifya&hide_rank=true&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=f8fafc&title_color=0284C7&icon_color=0284C7&text_color=334155" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukusalifya&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=f8fafc&title_color=0284C7&text_color=334155" alt="Top languages" /> </div> <br/>
 
 ## Connect
 
