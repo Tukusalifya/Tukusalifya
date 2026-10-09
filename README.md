@@ -1,4 +1,5 @@
-<!-- Header banner --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bae6fd,100:ddd6fe&height=200&section=header&text=Tukusalifya Sichali&fontSize=60&fontColor=0f172a&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Lusaka%2C%20Zambia&descSize=18&descAlignY=60&descColor=334155&animation=fadeIn" alt="header" /> <div align="center"> 
+<!-- Header banner --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bae6fd,100:ddd6fe&height=200&section=header&text=Tukusalifya%20Sichali&fontSize=60&fontColor=0f172a&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Lusaka%2C%20Zambia&descSize=18&descAlignY=60&descColor=334155&animation=fadeIn" alt="header" /> 
+<div align="center"> 
 <a href="https://github.com/tukusalifya"> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=640&lines=Web+%26+Mobile+Developer;Backend+%26+API+Development;Automation+%26+Web+Scraping;Turning+ideas+into+working+software" alt="Typing SVG" /> 
 </a>
