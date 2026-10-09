@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/tukusalifya"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://tukusalifya-sichali.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> 
+<a href="[https://www.linkedin.com/in/tukusalifya-sichali](https://www.linkedin.com/in/tukusalifya-sichali-a241a5425)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/tukusalifya"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://tukusalifya-sichali.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> 
 <br/>
 </div>
 
