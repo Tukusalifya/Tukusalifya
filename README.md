@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=640&lines=Web+%26+Mobile+Developer;Backend+%26+API+Development;Automation+%26+Web+Scraping;Turning+ideas+into+working+software" alt="Typing SVG" /> 
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=tukusalifya&label=Profile+views&color=38bdf8&style=flat-square" alt="Profile views" /> 
-<img src="https://img.shields.io/github/followers/Tukusalifya?label=Followers&style=flat-square&color=38bdf8&logo=github" alt="Followers" /> 
+<img src="https://hits.sh/github.com/Tukusalifya.svg?style=flat-square&label=Profile%20views&color=38bdf8" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Tukusalifya?label=Followers&style=flat-square&color=38bdf8&logo=github&cacheSeconds=300" alt="Followers" />
 <img src="https://img.shields.io/badge/Based%20in-Lusaka%2C%20Zambia%20🇿🇲-64748b?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Graduate%20Roles-34d399?style=flat-square" alt="Open to work" />
 
